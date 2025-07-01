@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HauntedHospitalGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|d:\\hauntedhospitalgame\\assets\\scripts\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|D:\\HauntedHospitalGame\\assets\\scripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|D:\\HauntedHospitalGame\\assets\\scripts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|D:\\HauntedHospitalGame\\assets\\scripts\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|D:\\HauntedHospitalGame\\assets\\scripts\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|D:\\HauntedHospitalGame\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD225E8D-4552-890A-277C-410F069D7F8B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteractionManager.cs",
+              "DocumentMoniker": "D:\\HauntedHospitalGame\\Assets\\Scripts\\InteractionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractionManager.cs",
+              "ToolTip": "D:\\HauntedHospitalGame\\Assets\\Scripts\\InteractionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractionManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAEBGwBgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:22:55.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "D:\\HauntedHospitalGame\\Assets\\Scripts\\Ghost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ghost.cs",
+              "ToolTip": "D:\\HauntedHospitalGame\\Assets\\Scripts\\Ghost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ghost.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIBEwEAAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:22:06.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuHandler.cs",
+              "DocumentMoniker": "D:\\HauntedHospitalGame\\Assets\\Scripts\\MenuHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuHandler.cs",
+              "ToolTip": "D:\\HauntedHospitalGame\\Assets\\Scripts\\MenuHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:25:45.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\HauntedHospitalGame\\Assets\\Scripts\\Register.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Register.cs",
+              "ToolTip": "D:\\HauntedHospitalGame\\Assets\\Scripts\\Register.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Register.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIBHwDsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:48:51.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\HauntedHospitalGame\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\HauntedHospitalGame\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA9wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T06:35:50.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\HauntedHospitalGame\\Assets\\Scripts\\Login.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Login.cs",
+              "ToolTip": "D:\\HauntedHospitalGame\\Assets\\Scripts\\Login.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T05:59:33.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
